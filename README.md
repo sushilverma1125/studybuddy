@@ -7,7 +7,7 @@
 * **Streamlit:** Install Streamlit using pip:
   ```bash
   pip install streamlit
-* **then :
+* **Then** :
   ```bash
   pip install -r requrnment.txt
   streamlit run knowldgeBuilder.py

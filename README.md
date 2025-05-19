@@ -1,5 +1,5 @@
 # Study -Buddy
-## docs : https://docs.google.com/document/d/1CzCxnSF3envflgGzZDzMO0wiRA5HsBr8/edit?usp=sharing&ouid=100040628657451799768&rtpof=true&sd=true
+## Docs : https://docs.google.com/document/d/1CzCxnSF3envflgGzZDzMO0wiRA5HsBr8/edit?usp=sharing&ouid=100040628657451799768&rtpof=true&sd=true
 ## Getting Started
 
 ### Prerequisites
@@ -11,10 +11,3 @@
   ```bash
   pip install -r requrnment.txt
   streamlit run knowldgeBuilder.py
-
-
-
-
-
-
-
